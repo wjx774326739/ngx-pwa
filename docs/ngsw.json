@@ -1,0 +1,88 @@
+{
+  "configVersion": 1,
+  "timestamp": 1589899360119,
+  "index": "/ngx-pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/ngx-pwa/5-es2015.c462ab25b434e73cc43a.js",
+        "/ngx-pwa/5-es5.c462ab25b434e73cc43a.js",
+        "/ngx-pwa/6-es2015.ab7375ba36fd565381e6.js",
+        "/ngx-pwa/6-es5.ab7375ba36fd565381e6.js",
+        "/ngx-pwa/favicon.ico",
+        "/ngx-pwa/index.html",
+        "/ngx-pwa/main-es2015.230ff87bac37b4343caa.js",
+        "/ngx-pwa/main-es5.230ff87bac37b4343caa.js",
+        "/ngx-pwa/manifest.webmanifest",
+        "/ngx-pwa/polyfills-es2015.f2c5ab749249a66bdf26.js",
+        "/ngx-pwa/polyfills-es5.8762124472dbe27575bb.js",
+        "/ngx-pwa/runtime-es2015.09346566f3c851c41fb1.js",
+        "/ngx-pwa/runtime-es5.09346566f3c851c41fb1.js",
+        "/ngx-pwa/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/ngx-pwa/assets/icons/icon-128x128.png",
+        "/ngx-pwa/assets/icons/icon-144x144.png",
+        "/ngx-pwa/assets/icons/icon-152x152.png",
+        "/ngx-pwa/assets/icons/icon-192x192.png",
+        "/ngx-pwa/assets/icons/icon-384x384.png",
+        "/ngx-pwa/assets/icons/icon-512x512.png",
+        "/ngx-pwa/assets/icons/icon-72x72.png",
+        "/ngx-pwa/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/ngx-pwa/5-es2015.c462ab25b434e73cc43a.js": "ea71464575093c13041a9d5c0d7e30f325869b47",
+    "/ngx-pwa/5-es5.c462ab25b434e73cc43a.js": "e5596ffaba965932800b66cd67901b92066cf70a",
+    "/ngx-pwa/6-es2015.ab7375ba36fd565381e6.js": "7a9da05f6a5b7ae6e09785d152bc9e818ff952af",
+    "/ngx-pwa/6-es5.ab7375ba36fd565381e6.js": "6d7df678c4ca57c99c1d14a31e6cac36c887b16d",
+    "/ngx-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/ngx-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/ngx-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/ngx-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/ngx-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/ngx-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/ngx-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/ngx-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/ngx-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/ngx-pwa/index.html": "bc4362445221da423abfafe80d99a1f0d6c60157",
+    "/ngx-pwa/main-es2015.230ff87bac37b4343caa.js": "9de9cd9f6c87c3720c0414e9f4eea65b27bd9e67",
+    "/ngx-pwa/main-es5.230ff87bac37b4343caa.js": "ed197c2163075b440da7234fda1b29878ef64d99",
+    "/ngx-pwa/manifest.webmanifest": "18a5daeaa7991209179439d5a6290bd574261065",
+    "/ngx-pwa/polyfills-es2015.f2c5ab749249a66bdf26.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/ngx-pwa/polyfills-es5.8762124472dbe27575bb.js": "89222a28dbabb780fc372d33834080e0cd3083d9",
+    "/ngx-pwa/runtime-es2015.09346566f3c851c41fb1.js": "fb7fdb9c7bf8dd172a9d87f248743950e315f7dc",
+    "/ngx-pwa/runtime-es5.09346566f3c851c41fb1.js": "6bd640577dedb029c6c4989d2a820f4ad41e6105",
+    "/ngx-pwa/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
